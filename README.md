@@ -13,7 +13,7 @@
 
 - 🍂 Currently focusing on **Life**.
 
-- 💼 Currently working at [`Haitani-Brothers`](https://github.com/Haitani-Brothers) 
+- 💼 Currently working at [`Arus-Bots`](https://github.com/Arus-Bots) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
